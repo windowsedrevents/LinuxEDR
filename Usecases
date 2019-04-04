@@ -1,0 +1,38 @@
+Use Case name
+Autorun
+Blacklisted
+Blacklisted entry in hosts file
+Custom: Bad module
+File hidden
+Graylisted
+Graylisted entry in hosts file
+Hidden running as root
+In hidden directory
+In same directory as blacklisted
+In same directory as graylisted
+In uncommon directory
+LD_Preload
+Misleading file extension
+Modified In Last Month
+Multiple names on same machine
+Packed
+Present in multiple directories on same machine
+Reported infected by OPSWAT
+Reported infected by YARA
+Reported malicious by reputation service
+Reported suspicious by OPSWAT
+Reported suspicious by reputation service
+RPM: Autorun file path not part of RPM
+RPM: Autorun RPM mismatch
+RPM: File path not part of RPM
+RPM: File path not part of RPM in important system directory
+RPM: Hash mismatch
+RPM: Hash mismatch in important system directory
+RPM: Ownership changed
+RPM: Permissions changed
+SGID bit set
+SUID bit set
+Temp Directory
+Uses LibNSS
+Uses LibPCAP
+World Writable
